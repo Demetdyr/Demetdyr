@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=demetdyr&label=Profile%20views&color=0eb421&style=flat" alt="demetdyr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=demetdyr" alt="demetdyr" /></a> </p>
-
 - 🌱 I’m currently learning **ASP.NET**
 
 - 📫 How to reach me **dduyar90@gmail.com**
